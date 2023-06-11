@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#details{
+    margin: 5%;
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+}

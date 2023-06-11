@@ -3,9 +3,14 @@
     box-sizing: border-box;
 }
 
+.name{
+    text-align: left;
+}
+
 body {
     background-color: #f6f8fc;
 }
+
 
 .content {
     width: 100vw;
